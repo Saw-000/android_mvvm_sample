@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">mvvm_sample</string>
+    <string name="title_home">Home</string>
+    <string name="title_follow">Follow</string>
+    <string name="title_comment_list">List</string>
+    <string name="title_notifications">Notification</string>
+    <string name="title_my_page">My Page</string>
+
+    <string name="home_create_comment_succeeded">コメントを投稿しました。</string>
+    <string name="home_create_comment_failed">コメント投稿に失敗しました。</string>
+
+    <string name="add_comment_dialog_title">コメントする</string>
+    <string name="add_comment_dialog_add_button_text">投稿する</string>
+    <string name="add_comment_dialog_cancel_button_text">キャンセル</string>
+
+    <string name="comment_list_create_comment_list_succeeded">リストを作成しました。</string>
+    <string name="comment_list_create_comment_list_failed">リストの作成に失敗しました。</string>
+</resources>
